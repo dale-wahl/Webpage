@@ -424,7 +424,7 @@ header.masthead {
   margin-bottom: 50px;
   text-align: center; }
   .team-member img {
-    width: 225px;
+    width: 225px; <!-- default 225px doesn't seem to do anything-->
     height: 225px;
     border: 7px solid white; }
   .team-member h4 {
